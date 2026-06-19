@@ -16,3 +16,6 @@ An advanced data analytics and operational dashboard built to tackle the critica
 
 ##  Business Impact
 This project identifies key wastage patterns (e.g., highest wastage by meal types and cities) and streamlines the distribution supply chain to ensure zero-hunger goals are met efficiently.
+
+##  Live Project Link
+https://food-rescue-dashboard.streamlit.app/
